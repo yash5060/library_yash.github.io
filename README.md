@@ -2,7 +2,7 @@
 
 # <img src="icons/icon-48x48.png" alt="books" width="32"> Books
 
-### 📚 Find books from Google Play Books by [Liyas Thomas](https://github.com/liyasthomas)
+### 📚 Find books from Google Play Books by 
 
 <div align="center">
   <br>
@@ -25,7 +25,7 @@
 
 ## Demo
 
-[https://liyasthomas.github.io/books](https://liyasthomas.github.io/books)
+
 
 * Search books by name, author, genre and etc...
 * Collection of curated books just for you!
@@ -36,7 +36,7 @@
 
 ## Built with
 
-* **[Chromium](https://github.com/chromium/chromium)** - Thanks for being so fast!
+t!
 * HTML - For the web framework
 * CSS - For styling components
 * JavaScript - For magic!
@@ -57,7 +57,7 @@ We use [Travis CI](https://travis-ci.com) for continuous integration. Check out 
 
 ## Versioning
 
-This project is developed by [Liyas Thomas](https://github.com/liyasthomas) using the [Semantic Versioning specification](https://semver.org). For the versions available, see the [releases on this repository](https://github.com/liyasthomas/books/releases).
+
 
 ---
 
@@ -70,12 +70,12 @@ See the [CHANGELOG](CHANGELOG.md) file for details.
 ## Authors
 
 ### Lead Developers
-* [**Liyas Thomas**](https://github.com/liyasthomas) - *Author*
+
 
 ### Thanks
 * [StackOverflow](https://stackoverflow.com)
 
-See the list of [contributors](https://github.com/liyasthomas/books/graphs/contributors) who participated in this project.
+
 
 ---
 
