@@ -2,7 +2,7 @@
 
 # <img src="icons/icon-48x48.png" alt="books" width="32"> Books
 
-### 📚 Find books from Google Play Books by 
+### 📚 Find books from Google Play Books by Yash
 
 <div align="center">
   <br>
